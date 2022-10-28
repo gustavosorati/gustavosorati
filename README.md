@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo Sorati
-- 🌱 I’m currently learning Next.js
+
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gustavosorati&show_icons=true" width="380px" />
