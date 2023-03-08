@@ -1,4 +1,4 @@
-<!-- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/177056026-104a8f46-692b-4b65-8ba4-d0fc8946da0f.png"> -->
+<!-- <img align="right" alt="Developer vector created by storyset height="400" src="https://user-images.githubusercontent.com/97471199/177056026-104a8f46-692b-4b65-8ba4-d0fc8946da0f.png](https://drive.google.com/file/d/1Rms98Pvmvd0z6UVdz6q8UmLR-vB2eDNU/view?usp=sharing)"> -->
 
 ## Hi , I'm Gustavo Sorati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
@@ -13,20 +13,10 @@ I'm a frontend developer, but I have knowledge in backend and mobile as well, cu
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+### Interested
 
-<!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-
-
-<!-- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavosorati&show_icons=true" width="380px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosorati&layout=compact" height="149px" />
-</div> -->
 <!---
 gustavosorati/gustavosorati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
