@@ -1,4 +1,4 @@
-<!-- <img align="right" alt="Developer vector created by storyset height="400" src="https://user-images.githubusercontent.com/97471199/177056026-104a8f46-692b-4b65-8ba4-d0fc8946da0f.png](https://drive.google.com/file/d/1Rms98Pvmvd0z6UVdz6q8UmLR-vB2eDNU/view?usp=sharing)"> -->
+<!-- <img align="right" alt="Developer vector created by storyset height="400" src="https://i.ibb.co/d7XKysF/cover.png" -->
 
 ## Hi , I'm Gustavo Sorati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
