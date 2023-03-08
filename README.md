@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset height="400" src="https://i.ibb.co/d7XKysF/cover.png" />
+<img align="right" alt="Programmer like" height="400" src="https://i.ibb.co/d7XKysF/cover.png" />
 
 ## Hi , I'm Gustavo Sorati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
