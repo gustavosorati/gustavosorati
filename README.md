@@ -1,21 +1,30 @@
 <!-- <img align="right" alt="Programmer like" height="300" src="https://i.ibb.co/d7XKysF/cover.png" /> -->
 
-## Hi , I'm Gustavo Sorati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+# Hi , I'm Gustavo Sorati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a frontend developer, but I have knowledge in backend and mobile as well, currently I work and study stacks related to javascript: **React, React Native and Nodejs**. Here on my github you will find my study projects, I'm always studying, everything here is done with great care.
+I'm a passionate Frontend Developer with a strong foundation in Backend and Mobile development. Currently, I'm deeply immersed in the JavaScript ecosystem, exploring and honing my skills. 
 
-### Skills
+## 👨‍💻 About Me
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=%EF322B)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+💼 I'm currently working as a React Native Developer.
 
-### Interested
+📚 I'm a perpetual learner, and this GitHub repository is a showcase of my study projects.
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+👨‍💻 I have experience working with a variety of technologies, always striving for excellence in code quality and user experience.
+
+🌱 My journey is all about continuous improvement, so everything you find here is created with great care and attention to detail.
+
+## 🔧 Tech Stack
+
+💻 **Frontend:** Nextjs, React, HTML, CSS, JavaScript
+
+📱 **Mobile:** React Native
+
+🌐 **Backend:** Node.js, Express.js, Nest.js
+
+🗄️ **Databases:** MongoDB, MySQL, PostgreSQL
+
+⚙️ **Tools:** Git, Visual Studio Code, Figma
 
 <!---
 gustavosorati/gustavosorati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
